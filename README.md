@@ -19,8 +19,8 @@ The project followed a structured data pipeline using the following tools:
 ## Project Tasks
 
 ### 1. Planning & Architecture (Miro)
-*Designed a **Data Flow Diagram** outlining the source data, ETL pipeline, storage in Databricks, and final presentation layers
-*Defined key metrics including total revenue, product performance rankings, and 30-minute time interval groupings.
+* Designed a **Data Flow Diagram** outlining the source data, ETL pipeline, storage in Databricks, and final presentation layers
+* Defined key metrics including total revenue, product performance rankings, and 30-minute time interval groupings.
 
 ### 2. Data Processing (Databricks)
 * Converted source Excel data to CSV and loaded it into the Databricks environment.
